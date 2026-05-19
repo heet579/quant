@@ -14,14 +14,12 @@ build/
 # Notebook outputs (regenerate by running the notebook)
 output_*.png
 
-# IDE / local tools
-.claude/
-.cursor/
-.cursoragent/
+# Editor & OS
 .vscode/
 .idea/
 *.swp
 .DS_Store
+Thumbs.db
 
 # Secrets
 .env
